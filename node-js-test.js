@@ -37,3 +37,5 @@ console.log(jsonVar);
 console.log(JSON.parse(jsonString));
 
 console.log("Test");
+
+console.log("Test3");
